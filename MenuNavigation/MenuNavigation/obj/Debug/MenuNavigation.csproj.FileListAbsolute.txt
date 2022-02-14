@@ -1,0 +1,126 @@
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.exe.config
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.exe
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.pdb
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\App.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation_MarkupCompile.cache
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation_MarkupCompile.lref
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.g.resources
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Properties.Resources.resources
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.exe
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.pdb
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\Pocetna.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\Students.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\Pocetna.baml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\Students.baml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\Classes.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\Teachers.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\Classes.baml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\Teachers.baml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\AddStudent.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\AddStudent.baml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.CopyComplete
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\ViewStudent.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\ViewStudent.baml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\SubjectView.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\TeacherView.g.cs
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\SubjectView.baml
+C:\Users\User\source\repos\MenuNavigation\MenuNavigation\obj\Debug\Views\TeacherView.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\Resources\strings.en-US.resx
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.exe.config
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.exe
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.pdb
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\en-US\MenuNavigation.resources.dll
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\AddStudent.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\Classes.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\Pocetna.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\Students.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\SubjectView.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\Teachers.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\TeacherView.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\ViewStudent.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation_MarkupCompile.cache
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation_MarkupCompile.lref
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\AddStudent.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\Classes.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\Pocetna.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\Students.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\SubjectView.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\Teachers.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\TeacherView.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\Views\ViewStudent.baml
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.g.resources
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Properties.Resources.resources
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Resources.strings.sr-LATN-CS.resources
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Resources.strings.en-US.resources
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\en-US\MenuNavigation.resources.dll
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.CopyComplete
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.exe
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.pdb
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\Resources\strings.sr-LATN-CS.resx
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\Properties\Resources.sr-LATN.resx
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\bin\Debug\sr-LATN\MenuNavigation.resources.dll
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Properties.Resources.sr-LATN.resources
+C:\Users\User\Desktop\MenuNavigationCopy\MenuNavigation\MenuNavigation\obj\Debug\sr-LATN\MenuNavigation.resources.dll
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\Resources\strings.sr-LATN-CS.resx
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\Properties\Resources.sr-LATN.resx
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\Resources\strings.en-US.resx
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.exe.config
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.exe
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\MenuNavigation.pdb
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\sr-LATN\MenuNavigation.resources.dll
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\en-US\MenuNavigation.resources.dll
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\AddStudent.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\Classes.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\Pocetna.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\Students.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\SubjectView.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\Teachers.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\TeacherView.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\ViewStudent.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\App.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation_MarkupCompile.cache
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation_MarkupCompile.lref
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\AddStudent.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\Classes.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\Pocetna.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\Students.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\SubjectView.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\Teachers.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\TeacherView.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\Views\ViewStudent.baml
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.g.resources
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Properties.Resources.resources
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Resources.strings.sr-LATN-CS.resources
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Properties.Resources.sr-LATN.resources
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.Resources.strings.en-US.resources
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.GenerateResource.cache
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\sr-LATN\MenuNavigation.resources.dll
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\en-US\MenuNavigation.resources.dll
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.csproj.CopyComplete
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.exe
+C:\Users\User\Downloads\MVVM - primer\MenuNavigation\MenuNavigation\obj\Debug\MenuNavigation.pdb
